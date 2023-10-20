@@ -116,10 +116,6 @@ camera.disable_zsl_mode=1
 vendor.camera.aux.packageexcludelist=us.zoom.videomeetings
 persist.vendor.camera.logInfoMask=false
 
-# Chipset
-ro.soc.manufacturer=Qualcomm
-ro.soc.model=SM6115
-
 # Crypto
 ro.crypto.allow_encrypt_override=true
 ro.crypto.dm_default_key.options_format.version=2
